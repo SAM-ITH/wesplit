@@ -21,5 +21,5 @@ https://www.hackingwithswift.com/100/swiftui/16
 
 ## Final view of the app.
 
-![]()
-![]()
+![](https://github.com/SAM-ITH/wesplit/blob/main/Screenshots/we%20split%20v2.0.png)
+![](https://github.com/SAM-ITH/wesplit/blob/main/Screenshots/WeSplit.gif)
